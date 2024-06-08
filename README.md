@@ -9,11 +9,6 @@ Welcome to the **CatchMe Portfolio** project! This Flutter application showcases
 - **Profile Information**: Displays a welcoming message and profile details in a styled container.
 - **Responsive Design**: The layout adjusts according to different screen sizes, ensuring a great user experience across devices.
 
-## Demo
-
-![Demo GIF](link-to-demo-gif)  
-*Include a link to a GIF or video showing the application in action.*
-
 ## Installation
 
 To run this project locally, follow these steps:
